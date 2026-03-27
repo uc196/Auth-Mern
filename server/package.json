@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "server.js",
+  "type" :"module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+
+  }
+}
